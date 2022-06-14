@@ -27,7 +27,7 @@ description: >- # this means to ignore newlines until "baseurl:"
 baseurl: "/Mecha-Blog" # the subpath of your site, e.g. /blog
 url: "https://jd114.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: InfosecMecha
-github_username:  jd11
+github_username:  jd114
 
 # Build settings
 theme: minima
